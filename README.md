@@ -1,6 +1,6 @@
 # SuperMarkt API
 
-SuperMarkt API, as the name suggest, is a RESTful API that uses JSON Web Token authentication!
+SuperMarkt API, as the name suggest, is a Restful  API that uses JSON Web Token authentication!
 
 ## Main Features
 ---
